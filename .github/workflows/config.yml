@@ -1,0 +1,16 @@
+# config.yml
+
+defaults:
+  # Change the default content type to HTML for all files
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      content_type: "text/html"
+      permalink: "/:path/"
+
+# Specify specific permalink structures for different folders
+permalink: "/:path/:basename:output_ext"
+
+# Custom 404 page (optional)
+404: /404.html

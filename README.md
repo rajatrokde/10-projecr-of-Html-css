@@ -1,4 +1,3 @@
-# 10-projecr-of-Html-css
 # HTML CSS 10 PRACTICE PROJECT
 
 ### Project that we are going to build in this complete practice course
